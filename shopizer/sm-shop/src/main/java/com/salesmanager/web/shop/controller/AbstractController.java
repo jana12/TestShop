@@ -20,7 +20,7 @@ import com.salesmanager.web.shop.model.paging.PaginationData;
  * @author Umesh A
  *
  */
-publi abstract class AbstractController {
+public abstract class AbstractController {
 
 
     /**
